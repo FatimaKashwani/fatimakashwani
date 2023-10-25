@@ -1,4 +1,4 @@
-<img width="500" src="assets/Fatima Kashwani Photo.jpg"> 
+<img width="250" src="assets/Fatima Kashwani Photo.jpg"> 
 
 # Bio Webpage Template
 This repo is a template for a basic bio webpage that you can use as a starting
