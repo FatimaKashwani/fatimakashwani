@@ -1,4 +1,4 @@
 title: [Fatima Kashwani]
-remote_theme: pages-themes/merlot@v0.2.0
+theme: jekyll-themes-merlot
 plugins:
 - jekyll-remote-theme
